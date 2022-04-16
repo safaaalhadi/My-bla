@@ -1,0 +1,43 @@
+
+.bla {
+  background-color: #6be3bd;
+  height: 270px;
+}
+.app {
+  border-radius: 4px !important;
+  background-color:#f3f0f0 !important;
+  border: none;
+  position: relative;
+  z-index: 5;
+  margin-top: -90px;
+  margin-bottom: 7rem;
+}
+.hidden {
+  text-align: center;
+  color: #6be3bd !important;
+  font-size: 40px !important;
+}
+.butt {
+  color: #000000ad !important;
+  background-color: white !important;
+  border: solid 1px darkgray !important;
+}
+.but , .put{
+  background-color: white !important;
+  color: #6be3bd !important;
+  width: 125px !important;
+  border: none !important;
+  display: block !important;
+  margin: 25px 20px 0 0 !important;
+}
+.put {
+  float: left;
+}
+.but{
+  float: right;
+}
+.butto {
+  color: #000000ad !important;
+  background-color: #d5cccc !important;
+  border: solid 1px darkgray !important;
+}
